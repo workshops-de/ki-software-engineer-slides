@@ -1,9 +1,9 @@
 # Lesson configuration for repository import
 
-name: Why Software Engineers Need AI
+name: KI Software Engineer | Why Software Engineers Need AI
 position: 4
 
-trainer: trainer@workshops.de
+trainer: gregor@entwicklungszeit.dev
 
 github_code_url: https://github.com/workshops-de/example-code-repo
 git_tag_starting: main
