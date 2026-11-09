@@ -10,15 +10,15 @@
     "preview": "npx vite preview --outDir dist"
   },
   "dependencies": {
-    "@slidev/cli": "52.11.5",
+    "@slidev/cli": "52.14.2",
     "@workshops.de/slidev-theme": "2.1.0",
     "slidev-addon-tldraw": "0.5.1",
-    "slidev-addon-window-mockup": "0.3.0",
+    "slidev-addon-window-mockup": "0.3.1",
     "vue": "3.5.27"
   },
   "devDependencies": {
-    "playwright-chromium": "^1.64.0",
-    "prettier": "3.7.4",
+    "playwright-chromium": "^1.65.0",
+    "prettier": "3.8.3",
     "prettier-plugin-slidev": "1.0.5"
   }
 }
