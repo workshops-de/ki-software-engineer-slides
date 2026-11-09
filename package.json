@@ -25,8 +25,5 @@
       "window-mockup",
       "slidev-addon-tldraw"
     ]
-  },
-  "overrides": {
-    "slidev-addon-tldraw": "git+https://github.com/tidusIO/slidev-addon-tldraw.git#1aecc81a214b41ffcef581b1e1f72e1eb1df8eb6"
   }
 }
