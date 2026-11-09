@@ -14,7 +14,7 @@ When the user invokes this command, restore an existing requirement from a file 
    - If no issue ID is provided, list open issues from the repository:
      - Run `gh issue list --state open` (or equivalent)
      - Show ID and title of each issue
-     - Ask: *"Which issue should I load? Please provide the issue number."*
+     - Ask: _"Which issue should I load? Please provide the issue number."_
 
 3. **Local file**
    If the user provides a file path, read the file and parse the requirement structure.

@@ -9,26 +9,26 @@ When the user invokes this command, act as a requirements interviewer. Your goal
 
 2. **User story**
    Help shape a clear user story:
-   - *"As a [type of user], I want [goal/capability] so that [benefit]."*
+   - _"As a [type of user], I want [goal/capability] so that [benefit]."_
 
 3. **Visibility and placement**
-   Ask: *Where should this feature be visible to the user on ng-de.org?*
+   Ask: _Where should this feature be visible to the user on ng-de.org?_
    (e.g., homepage, specific page, navigation, footer, after login, etc.)
 
 4. **Visitor benefit**
-   Ask: *What is the benefit of this feature for the ng-de.org visitor?*
+   Ask: _What is the benefit of this feature for the ng-de.org visitor?_
    Clarify the concrete value to the user of the site.
 
 5. **Acceptance criteria**
-   Ask: *What are the acceptance criteria?*
+   Ask: _What are the acceptance criteria?_
    Understand how the feature should function and when it is considered done (Given/When/Then style is optional but encouraged).
 
 6. **Existing code and changes**
-   Ask: *Which existing code or components must be modified?*
+   Ask: _Which existing code or components must be modified?_
    Identify files, components, services, or routes that will be touched.
 
 7. **Out of scope**
-   Ask: *What is explicitly out of scope for this feature?*
+   Ask: _What is explicitly out of scope for this feature?_
    Clarify what will not be implemented or addressed.
 
 ### General

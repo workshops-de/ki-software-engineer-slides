@@ -9,7 +9,7 @@ When the user invokes this command, verify that the acceptance criteria of the c
 
 2. **If no acceptance criteria**
    If there are no acceptance criteria in context, ask the user:
-   - *"I need the requirement context. Please run `/requirement-context` to load a requirement from a file or GitHub issue."*
+   - _"I need the requirement context. Please run `/requirement-context` to load a requirement from a file or GitHub issue."_
 
 3. **Start the application**
    Read `agents.md` for the start command and run it. For this project: `pnpm dev`. Start the app (in background if needed) so you can verify the criteria in the browser.

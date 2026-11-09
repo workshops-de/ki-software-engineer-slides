@@ -14,5 +14,4 @@ Use prompt engineering and an AI agent to produce a living architecture summary 
 
 - **But wait —** What could possibly be wrong with this approach? Discuss this topic in the group.
 
-*💡 Come up with your own prompt. If you are stuck and do not know how to start, check the hint for an example.*
-
+_💡 Come up with your own prompt. If you are stuck and do not know how to start, check the hint for an example._

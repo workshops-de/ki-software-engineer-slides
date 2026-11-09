@@ -118,7 +118,7 @@ layout: default
 
 # Write Skills like good functions
 
-- **Start from real expertise** — capture what *your team* does (not generic advice)
+- **Start from real expertise** — capture what _your team_ does (not generic advice)
 - **Design coherent units** — one workflow per Skill, composable with others
 - **Spend context wisely** — add what the agent would otherwise get wrong
 - **Provide defaults** — “use X”; “if Y, fall back to Z”
